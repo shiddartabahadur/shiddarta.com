@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://grabtheskills/sitemap.xml
+Host: https://grabtheskills.com
