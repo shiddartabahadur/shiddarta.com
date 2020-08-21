@@ -1,6 +1,6 @@
 module.exports = {
   title: `GrabTheSkills `,
-  description: `An iOS development blog crafted for knowledge sharing.`,
+  description: `An iOS development blog crafted for knowledge sharing😊`,
   author: `[SYD]`,
   introduction: `An iOS development blog crafted for knowledge sharing.`,
   siteUrl: `https://grabtheskills.com`, // Your blog site url
