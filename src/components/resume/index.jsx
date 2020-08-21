@@ -9,7 +9,7 @@ export const Resume = () => {
       <h2 className="resume-soon">
         The skills provided through this website is for educational purposes
         only. There is no ads, sponsors, tracking and analytics. Feel free to
-        share.
+        share😋
       </h2>
     </div>
   )
