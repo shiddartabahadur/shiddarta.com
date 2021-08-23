@@ -11,7 +11,7 @@ export const Footer = () => (
     <a target="_blank" href="https://github.com/GrabTheSkills.com"></a>
     <br />
     <a target="_blank" href="">
-      Zero trackers on this site as privacy is a fundamental human right.
+      syd-dev.com
     </a>{' '}
     <a target="_blank" href=""></a>
   </footer>
