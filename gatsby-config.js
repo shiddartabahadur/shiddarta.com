@@ -24,9 +24,6 @@ module.exports = {
         name: `assets`,
       },
     },
-    module.exports = {
-      pathPrefix: "/syd-dev.com",
-    },    
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -173,4 +170,5 @@ module.exports = {
     `gatsby-plugin-lodash`,
     `gatsby-plugin-sitemap`,
   ],
+  pathPrefix: "/syd-dev.com",
 }
