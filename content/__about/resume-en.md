@@ -1,6 +1,6 @@
 ---
 title: 'about'
-date: 2019-1-27 16:21:13
+date: 2021-1-27 16:21:13
 lang: 'en'
 showToc: true
 ---
@@ -9,6 +9,6 @@ showToc: true
 
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+_Reach me on email._
 
 </div>

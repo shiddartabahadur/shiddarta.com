@@ -1,6 +1,6 @@
 ---
 title: 'Making Core Data Functional'
-date: 2020-04-24 21:01:52
+date: 2021-04-25 21:01:52
 category: iOS
 draft: false
 showToc: true
@@ -27,7 +27,7 @@ While this might be the most straightforward implementation, it is not thread sa
 
 ```swift
 func makeBaby(in context: NSManagedObjectContext, name: String) -> Baby {
-	var baby: Baby!
+	var baby: Baby
 	context.performAndWait {
 		baby = Baby(context: context)
 		baby.name = name
@@ -392,4 +392,4 @@ In this article, we learnt about “making babies” the safe way by introducing
 
 As you might remember, try! was used in this article. Hence, we will need to address the lack of a proper error handling in our baby-making process. This is so that the code can be more robust.
 
-Feel free to share your thoughts! Thanks😊
+Feel free to share your thoughts with me! Thanks😊

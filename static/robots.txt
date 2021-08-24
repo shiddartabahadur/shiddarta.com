@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://grabtheskills/sitemap.xml
-Host: https://grabtheskills.com
+Sitemap: https://syd-dev/sitemap.xml
+Host: https://syd-dev.com

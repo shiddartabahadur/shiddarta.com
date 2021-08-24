@@ -1,6 +1,6 @@
 // app
-$theme-gradient: linear-gradient(72deg, rgb(178, 23, 240), violet);
-$top-header-text-color: rgb(0, 0, 0);
+$theme-gradient: linear-gradient(32deg, #1f4f95, #725dcc);
+$top-header-text-color: #ffffff;
 
 /**
  * @light theme
@@ -9,8 +9,8 @@ $top-header-text-color: rgb(0, 0, 0);
 // body
 $light-background-color: #fff;
 $light-text-shadow: 0 0 0.1px rgba(0, 0, 0, 0.3);
-$light-hover-text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
-$light-hover-background-color: rgba(10, 10, 10, 0.05);
+$light-hover-text-shadow: 0 0 0px rgba(0, 0, 0, 0.0);
+$light-hover-background-color: rgba(0, 30, 84, 0.07);
 
 // index
 $dimmed-color: #eef5db;
@@ -23,12 +23,12 @@ $light-gray: #aaa;
 $navigator-text-color: #cc007a;
 $navigator-background-color: #fceff7;
 $blockquote-text-color: #999;
-$post-time-color: rgb(165, 165, 165);
-$thumbnail-border-color: #eeeeee;
+$post-time-color: rgb(95, 55, 141);
+$thumbnail-border-color: #0687f0;
 
 // code
-$inline-dimmed-color: rgb(247, 246, 243);
-$inline-text-color: #eb5757;
+$inline-dimmed-color: #ece5f1;
+$inline-text-color: #4b2043;
 
 // category
 $light-category-border-color: #ecf0f2;
@@ -41,16 +41,16 @@ $light-category-item-color: #fff;
 /**
  * @dark theme
  */
-$dark-background-color: #272c35;
-$dark-link-color: violet;
+$dark-background-color: #000000;
+$dark-link-color: #0687f0;
 
 $dark-lightest-font-color: #fff;
 $dark-light-font-color: #eeeeee;
 $dark-middle-font-color: #d8d7d7;
 
 $dark-text-shadow: 0 0 0.1px rgba(255, 255, 255, 0.3);
-$dark-hover-text-shadow: 0 0 6px rgba(255, 255, 255, 0.2);
-$dark-hover-background-color: rgba(255, 255, 255, 0.125);
+$dark-hover-text-shadow: 0 0 0px rgba(0, 0, 0, 0.0);
+$dark-hover-background-color: rgba(45, 67, 115, 0.49);
 
 $dark-category-item-color: #282c35;
 $dark-category-background-color: #24272c;

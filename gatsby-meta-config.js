@@ -1,15 +1,17 @@
 module.exports = {
-  title: `GrabTheSkills `,
+  title: `syd-dev.com `,
   description: `An iOS development blog crafted for knowledge sharing😊`,
-  author: `[SYD]`,
+  author: `[SHIDDARTA BAHADUR]`,
   introduction: `An iOS development blog crafted for knowledge sharing.`,
-  siteUrl: `https://grabtheskills.com`, // Your blog site url
+  siteUrl: `https://syd-dev.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `grabtheskills`, // Your GitHub account
+    github: `syd-developer`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    instagram: `_syd88`,
+    instagram: ``,
+    linkedin: `shiddarta`,
+
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`, `javascript`, `js`, `web`, `react`, `frontend`, `develop`],

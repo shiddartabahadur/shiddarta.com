@@ -1,6 +1,6 @@
 ---
 title: 'Error Handling in Functional Data Operation'
-date: 2020-05-19 21:01:39
+date: 2021-05-18 21:01:39
 category: iOS
 draft: false
 showToc: true
@@ -69,7 +69,8 @@ public func zip<A, B>
 }
 ```
 
-## What’s wrong with FunctionalDataOperation<Result<Element, AnyError>>?
+## Functional Data Operation
+What’s wrong with FunctionalDataOperation<Result<Element, AnyError>>?
 
 Ok, I’ll briefly show you how things break apart when we perform a flatMap operation on `FunctionalDataOperation<Result<Element,Error>>`.
 
@@ -275,4 +276,4 @@ It is not the purpose of this article to show you the implementation details of 
 
 I hope this article has inspired you to consider abstracting those nested containers you have been using (and hating all along!). Next up, I will be integrating Point-free’s randomness container `Gen` into `ResultFDO` which would then allow us to have a more controllable seeding of our CoreData context (for testing). Then, I will apply the same concept again to justify another container for wrapping our `ResultFDO` as otherwise, we would need to deal with up to three levels deep of containers.
 
-For any feedback (or just to say hi), hit me up on😊
+For any feedback (or just to say hi), buzz me😊

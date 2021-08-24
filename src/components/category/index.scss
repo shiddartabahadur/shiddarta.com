@@ -1,6 +1,7 @@
 @import '../../styles/variables.scss';
 
 .category-container {
+  display: none; // Remove for category preview 
   position: sticky;
   position: -webkit-sticky;
   top: 0;
