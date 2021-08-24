@@ -12,6 +12,8 @@ jobs:
       - uses: actions/checkout@v1
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
-          access-token: ${{ secrets.syd-developer }}
+          access-token: ${{ secrets.syddev }}
           deploy-branch: gh-pages
           gatsby-args: --prefix-paths
+
+

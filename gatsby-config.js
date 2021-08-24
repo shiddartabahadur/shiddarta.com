@@ -25,6 +25,9 @@ module.exports = {
       },
     },
     {
+      pathPrefix: "/syd-dev.com",
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
