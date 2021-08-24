@@ -81,7 +81,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/syd-developer/syd-developer.com.git"
+    "url": "git+https://github.com/syd-developer/syd-dev.com.git"
   },
   "scripts": {
     "post": "node ./cli/create-new-post.js",
