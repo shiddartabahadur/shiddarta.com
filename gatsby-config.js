@@ -170,5 +170,5 @@ module.exports = {
     `gatsby-plugin-lodash`,
     `gatsby-plugin-sitemap`,
   ],
-  pathPrefix: "/syd-dev.com",
+  //pathPrefix: "/syd-dev.com",
 }
