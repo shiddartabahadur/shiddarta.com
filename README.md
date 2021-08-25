@@ -1,1 +1,1 @@
-syd-dev.com 
+An iOS development blog crafted for knowledge sharing.
