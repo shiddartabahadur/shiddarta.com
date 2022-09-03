@@ -1,7 +1,7 @@
 module.exports = {
   title: `syd-dev.com `,
   description: `An iOS development blog crafted for knowledge sharing😊`,
-  author: `[SHIDDARTA BAHADUR]`,
+  author: `[SYD SHIDDARTA]`,
   introduction: `An iOS development blog crafted for knowledge sharing.`,
   siteUrl: `https://syd-dev.com`, // Your blog site url
   social: {
