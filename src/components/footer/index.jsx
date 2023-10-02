@@ -4,7 +4,7 @@ import './index.scss'
 
 export const Footer = () => (
   <footer className="footer">
-    Copyright©2021{' '}
+    Copyright©2023{' '}
       | syd-dev.com
     <br />
       Happy Coding 😊
